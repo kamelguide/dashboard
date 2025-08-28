@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* 👉 Ajoute ta font ici */
+@font-face {
+  font-family: 'ElementalEnd';
+  src: url('/src/assets/fonts/elementalend.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: 'Rajdhani', sans-serif;
+    @apply text-gray-800 bg-gray-50;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-semibold text-gray-900;
+  }
+}
+@layer components {
+  .container {
+    @apply px-4 mx-auto ;
+  }
+  
+  .section {
+    @apply py-16 md:py-24;
+  }
+  
+  .btn {
+    @apply inline-flex items-center justify-center px-6 py-3 text-base font-medium transition-all duration-300 rounded-lg;
+  }
+  
+  .btn-primary {
+    @apply text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:ring-primary-300;
+  }
+  
+  .btn-secondary {
+    @apply text-primary-700 bg-primary-50 hover:bg-primary-100 focus:ring-4 focus:ring-primary-100;
+  }
+  
+  .card {
+    @apply overflow-hidden transition-all duration-300 bg-white rounded-lg shadow-md hover:shadow-lg;
+  }
+  
+  .nav-link {
+    @apply relative px-3 py-2 text-sm font-medium transition-all duration-300;
+  }
+  
+  .nav-link:after {
+    content: '';
+    @apply absolute bottom-0 left-0 w-0 h-0.5 bg-primary-500 transition-all duration-300;
+  }
+  
+  .nav-link:hover:after,
+  .nav-link.active:after {
+    @apply w-full;
+  }
+}

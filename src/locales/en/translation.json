@@ -1,0 +1,246 @@
+{
+  "home": "Home",
+  "features": "Features",
+  "gallery": "Gallery",
+  "contact1": "Contact",
+  "login": "Login",
+  "request_demo": "Request a Demo",
+  "hero_title_line1": "Optimize your",
+  "hero_title_line2": "Business Management",
+  "hero_description": "A complete solution to manage your delivery notes, products, invoices, clients, suppliers, and companies with an intuitive interface and real-time key indicators.",
+  "hero_button_start": "Get Started",
+  "hero_button_features": "Explore Features",
+  "feature_invoices_title": "Intuitive Invoicing",
+  "feature_invoices_desc": "Quickly generate, track, and validate your invoices with full traceability and detailed statistics.",
+  "feature_products_title": "Product Catalog",
+  "feature_products_desc": "Add, edit, and manage your products with real-time stock information and VAT tracking.",
+  "feature_analytics_title": "Dashboards",
+  "feature_analytics_desc": "Monitor sales trends, client statistics, and order evolution from a single screen.",
+  "feature_delivery_title": "Delivery Tracking",
+  "feature_delivery_desc": "View and manage your validated or pending delivery notes by date and client.",
+  "feature_clients_title": "Client Management",
+  "feature_clients_desc": "Manage client profiles with segmentation between professionals and individuals, and track their purchase history.",
+  "feature_suppliers_title": "Supplier Directory",
+  "feature_suppliers_desc": "Centralize information about your suppliers and manage their contributions to products.",
+  "stats": {
+    "title": "Simplified and Efficient Management",
+    "subtitle": "Vendeur centralizes all your business operations in a smooth and fast interface.",
+    "tab_stats": "Key Statistics",
+    "tab_testimonials": "Testimonials",
+    "cta": "Get Started Now",
+    "label1": "Availability",
+    "desc1": "Your dashboard is always available when you need it.",
+    "label2": "Data Points",
+    "desc2": "Process thousands of business data in real-time with exceptional speed.",
+    "label3": "Optimized Decisions",
+    "desc3": "Make informed decisions with our integrated analysis tools.",
+    "label4": "Dedicated Support",
+    "desc4": "Responsive and expert support to accompany your growth.",
+    "testi1": {
+      "quote": "Vendeur transformed our way of managing deliveries and invoicing.",
+      "author": "Marie Dupont",
+      "role": "Sales Manager, DistriPlus",
+      "avatar": "MD"
+    },
+    "testi2": {
+      "quote": "A complete and smooth tool to manage all our products and suppliers.",
+      "author": "Pierre Martin",
+      "role": "Manager, Commerce Express",
+      "avatar": "PM"
+    },
+    "testi3": {
+      "quote": "Thanks to Vendeur, our multi-company management is centralized and efficient.",
+      "author": "Sophie Laurent",
+      "role": "CEO, MultiGroup",
+      "avatar": "SL"
+    },
+    "testi4": {
+      "quote": "Effective technical support always attentive to our needs.",
+      "author": "Thomas Bernard",
+      "role": "IT Manager, LogiTech",
+      "avatar": "TB"
+    }
+  },
+  "slider": {
+    "header_title": "Transform your",
+    "header_span": "business management",
+    "header_desc": "Discover our innovative solutions to centralize and optimize your operations.",
+    "slides": [
+      {
+        "title": "Overview of Statistics",
+        "description": "Global dashboard displaying delivery notes, invoices, companies, products, and clients at a glance.",
+        "category": "Dashboard",
+        "stats": "98% Accuracy",
+        "features": ["Real-time data", "Custom indicators", "Period filtering"]
+      },
+      {
+        "title": "Data Visualization",
+        "description": "Interactive charts to visualize your business performance with intelligent filters.",
+        "category": "Analytics",
+        "stats": "Over 20 chart types",
+        "features": ["Dynamic charts", "Monthly reports", "PDF export"]
+      },
+      {
+        "title": "Multi-Company Management",
+        "description": "Manage multiple companies through a unified interface while maintaining entity autonomy.",
+        "category": "Monitoring",
+        "stats": "24/7 Monitoring",
+        "features": ["Separate dashboards", "Company filtering", "Consolidated statistics"]
+      },
+      {
+        "title": "User Management",
+        "description": "Control access and permissions for each user according to their role.",
+        "category": "Security",
+        "stats": "Enhanced Security",
+        "features": ["Module-based permissions", "Login audits", "Custom roles"]
+      },
+      {
+        "title": "Reporting Tools",
+        "description": "Export your deliveries, products, and sales with customizable templates.",
+        "category": "Reports",
+        "stats": "Over 50 templates",
+        "features": ["Automated reports", "Excel/PDF download", "Advanced scheduling"]
+      },
+      {
+        "title": "Mobile Access",
+        "description": "Access your space from smartphone, tablet, or desktop, wherever you are.",
+        "category": "Mobile",
+        "stats": "100% Responsive",
+        "features": ["Mobile interface", "Dark mode", "Online synchronization"]
+      }
+    ],
+    "cta_button": "Get Started Now",
+    "learn_more": "Learn More",
+    "footer_title": "Ready to take action?",
+    "footer_desc": "Join professionals who manage their business with Vendeur.",
+    "footer_cta": "Get Started Now",
+    "footer_secondary": "Learn More",
+    "pause": "Pause",
+    "play": "Play Slideshow"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Questions? Our team is here for you.",
+    "errors": {
+      "name": "Name is required.",
+      "email": {
+        "required": "Email address is required.",
+        "invalid": "Invalid email address."
+      },
+      "message": "Message is required.",
+      "server": "Sending failed. Please try again."
+    },
+    "success": "Message sent successfully! We will contact you soon.",
+    "header": {
+      "title": "Quick Contact",
+      "description": "Need help or a personalized demo? Write to us."
+    },
+    "form": {
+      "title": "Send Us a Message",
+      "fields": {
+        "name": "Full Name",
+        "email": "Email Address",
+        "phone": "Phone Number",
+        "subject": "Subject",
+        "message": "Your Message"
+      },
+      "placeholders": {
+        "name": "John Doe",
+        "email": "john@example.com",
+        "phone": "123-456-7890",
+        "subject": "Your Inquiry",
+        "message": "Please describe how we can assist you..."
+      },
+      "send_button": "Send",
+      "sending": "Sending..."
+    },
+    "validation": {
+      "name_required": "Name is required",
+      "email_required": "Email is required",
+      "email_invalid": "Email is not valid",
+      "message_required": "Message is required"
+    },
+    "success": {
+      "message_sent": "Message sent successfully! We will respond soon."
+    },
+    "error": {
+      "send_failed": "Failed to send email. Please try again."
+    },
+    "info": {
+      "email": {
+        "title": "Write to Us",
+        "general": "contact@vendeur.tn",
+        "support": "support@vendeur.tn"
+      },
+      "phone": {
+        "title": "Call Us",
+        "number": "+216 71 234 567",
+        "hours": "Monday - Friday: 9am - 5pm"
+      },
+      "address": {
+        "title": "Address",
+        "street": "Centre Urbain Nord",
+        "suite": "Block A, 2nd Floor",
+        "city": "Tunis, Tunisia"
+      }
+    },
+    "cta": {
+      "title": "Schedule a Demo",
+      "description": "Contact our team and discover how Vendeur can enhance your daily operations.",
+      "button": "Request a Demo"
+    }
+  },
+  "footer": {
+    "company": {
+      "logo_alt": "Vendeur Logo",
+      "description": "An all-in-one solution for modern business management."
+    },
+    "social": {
+      "twitter": "Twitter",
+      "facebook": "Facebook",
+      "linkedin": "LinkedIn",
+      "github": "GitHub"
+    },
+    "sections": {
+      "navigation": "Navigation",
+      "resources": "Resources",
+      "newsletter": "Newsletter"
+    },
+    "navigation": {
+      "home": "Home",
+      "features": "Features",
+      "gallery": "Gallery",
+      "testimonials": "Testimonials",
+      "contact": "Contact"
+    },
+    "resources": {
+      "documentation": "Documentation",
+      "api": "API",
+      "blog": "Blog",
+      "tutorials": "Tutorials",
+      "support": "Support"
+    },
+    "newsletter": {
+      "description": "Receive our latest news and updates by email.",
+      "placeholder": "Your email address",
+      "success": "Thank you for subscribing!",
+      "error": "Subscription failed. Please try again."
+    },
+    "legal": {
+      "terms": "Terms of Use",
+      "privacy": "Privacy Policy",
+      "cookies": "Cookies",
+      "gdpr": "GDPR",
+      "security": "Security"
+    },
+    "contact": {
+      "address": "Centre Urbain Nord, Tunis, Tunisia"
+    },
+    "copyright": {
+      "text": "All rights reserved.",
+      "made_with": "Developed with ❤️",
+      "location": "by the Vendeur team"
+    },
+    "back_to_top": "Back to Top"
+  }
+}

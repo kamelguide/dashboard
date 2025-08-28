@@ -1,0 +1,246 @@
+{
+  "home": "Accueil",
+  "features": "Fonctionnalités",
+  "gallery": "Galerie",
+  "contact1": "Contact",
+  "login": "Connexion",
+  "request_demo": "Demander une démo",
+  "hero_title_line1": "Optimisez votre",
+  "hero_title_line2": "Gestion Commerciale",
+  "hero_description": "Une solution complète pour gérer vos bons de livraison, produits, factures, clients, fournisseurs et sociétés, avec une interface intuitive et des indicateurs clés en temps réel.",
+  "hero_button_start": "Commencer maintenant",
+  "hero_button_features": "Découvrir les fonctionnalités",
+  "feature_invoices_title": "Facturation intuitive",
+  "feature_invoices_desc": "Générez, suivez et validez vos factures rapidement avec une traçabilité complète et des statistiques détaillées.",
+  "feature_products_title": "Catalogue de produits",
+  "feature_products_desc": "Ajoutez, modifiez et gérez vos produits avec des informations de stock en temps réel et un suivi par TVA.",
+  "feature_analytics_title": "Tableaux de bord",
+  "feature_analytics_desc": "Suivez les tendances de vos ventes, les statistiques de clients et l'évolution des commandes depuis un seul écran.",
+  "feature_delivery_title": "Suivi des livraisons",
+  "feature_delivery_desc": "Consultez et gérez vos bons de livraison validés ou en attente selon les dates et les clients.",
+  "feature_clients_title": "Gestion des clients",
+  "feature_clients_desc": "Gérez les fiches clients avec segmentation entre professionnels et particuliers, et suivez leurs historiques d'achats.",
+  "feature_suppliers_title": "Répertoire fournisseurs",
+  "feature_suppliers_desc": "Centralisez les informations sur vos fournisseurs et gérez leurs contributions aux produits.",
+  "stats": {
+    "title": "Gestion Simplifiée et Performante",
+    "subtitle": "Vendeur centralise toutes vos opérations commerciales dans une interface fluide et rapide.",
+    "tab_stats": "Statistiques Clés",
+    "tab_testimonials": "Témoignages",
+    "cta": "Commencer Maintenant",
+    "label1": "Disponibilité",
+    "desc1": "Votre tableau de bord est toujours disponible quand vous en avez besoin.",
+    "label2": "Points de Données",
+    "desc2": "Traitez des milliers de données commerciales en temps réel avec une rapidité exceptionnelle.",
+    "label3": "Décisions optimisées",
+    "desc3": "Prenez des décisions éclairées grâce à nos outils d'analyse intégrés.",
+    "label4": "Assistance dédiée",
+    "desc4": "Support réactif et expert pour accompagner votre croissance.",
+    "testi1": {
+      "quote": "Vendeur a transformé notre façon de gérer les livraisons et la facturation.",
+      "author": "Marie Dupont",
+      "role": "Responsable commerciale, DistriPlus",
+      "avatar": "MD"
+    },
+    "testi2": {
+      "quote": "Un outil complet et fluide pour gérer tous nos produits et fournisseurs.",
+      "author": "Pierre Martin",
+      "role": "Gérant, Commerce Express",
+      "avatar": "PM"
+    },
+    "testi3": {
+      "quote": "Grâce à Vendeur, notre gestion multi-sociétés est centralisée et performante.",
+      "author": "Sophie Laurent",
+      "role": "PDG, MultiGroup",
+      "avatar": "SL"
+    },
+    "testi4": {
+      "quote": "Support technique efficace et toujours à l’écoute de nos besoins.",
+      "author": "Thomas Bernard",
+      "role": "Responsable IT, LogiTech",
+      "avatar": "TB"
+    }
+  },
+  "slider": {
+    "header_title": "Transformez votre",
+    "header_span": "gestion commerciale",
+    "header_desc": "Découvrez nos solutions innovantes pour centraliser et optimiser vos opérations.",
+    "slides": [
+      {
+        "title": "Vue d'ensemble des statistiques",
+        "description": "Tableau de bord global affichant les bons, factures, sociétés, produits et clients en un coup d'œil.",
+        "category": "Tableau de bord",
+        "stats": "98% de Précision",
+        "features": ["Données en temps réel", "Indicateurs personnalisés", "Filtrage par période"]
+      },
+      {
+        "title": "Visualisation des Données",
+        "description": "Graphiques interactifs pour visualiser vos performances commerciales avec des filtres intelligents.",
+        "category": "Analyses",
+        "stats": "Plus de 20 types de graphiques",
+        "features": ["Graphiques dynamiques", "Rapports mensuels", "Export PDF"]
+      },
+      {
+        "title": "Gestion multi-sociétés",
+        "description": "Gérez plusieurs entreprises via une interface unifiée tout en gardant l’autonomie des entités.",
+        "category": "Surveillance",
+        "stats": "Surveillance 24/7",
+        "features": ["Tableaux séparés", "Filtrage par société", "Statistiques consolidées"]
+      },
+      {
+        "title": "Gestion des Utilisateurs",
+        "description": "Contrôlez l'accès et les autorisations pour chaque utilisateur selon son rôle.",
+        "category": "Sécurité",
+        "stats": "Sécurité renforcée",
+        "features": ["Permissions par module", "Audit des connexions", "Rôles personnalisés"]
+      },
+      {
+        "title": "Outils de Rapport",
+        "description": "Exportez vos livraisons, produits et ventes avec des modèles personnalisables.",
+        "category": "Rapports",
+        "stats": "Plus de 50 modèles",
+        "features": ["Rapports automatiques", "Téléchargement Excel/PDF", "Planification avancée"]
+      },
+      {
+        "title": "Accès mobile",
+        "description": "Utilisez votre espace depuis smartphone, tablette ou desktop, où que vous soyez.",
+        "category": "Mobile",
+        "stats": "100% Responsive",
+        "features": ["Interface mobile", "Mode sombre", "Synchronisation en ligne"]
+      }
+    ],
+    "cta_button": "Commencer maintenant",
+    "learn_more": "En savoir plus",
+    "footer_title": "Prêt à passer à l'action ?",
+    "footer_desc": "Rejoignez les professionnels qui pilotent leur activité avec Vendeur.",
+    "footer_cta": "Commencer maintenant",
+    "footer_secondary": "En savoir plus",
+    "pause": "Pause",
+    "play": "Lire le Diaporama"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "description": "Des questions ? Notre équipe est à votre écoute.",
+    "errors": {
+      "name": "Le nom est requis.",
+      "email": {
+        "required": "L'adresse email est requise.",
+        "invalid": "Adresse email invalide."
+      },
+      "message": "Le message est requis.",
+      "server": "Échec de l'envoi. Veuillez réessayer."
+    },
+    "success": "Message envoyé avec succès ! Nous vous contacterons bientôt.",
+    "header": {
+      "title": "Contact rapide",
+      "description": "Besoin d'aide ou d'une démonstration personnalisée ? Écrivez-nous."
+    },
+    "form": {
+      "title": "Envoyez-nous un message",
+      "fields": {
+        "name": "Nom complet",
+        "email": "Adresse e-mail",
+        "phone": "Numéro de téléphone",
+        "subject": "Sujet",
+        "message": "Votre message"
+      },
+      "placeholders": {
+        "name": "Jean Dupont",
+        "email": "jean@exemple.com",
+        "phone": "98 765 432",
+        "subject": "Votre demande",
+        "message": "Expliquez comment nous pouvons vous assister..."
+      },
+      "send_button": "Envoyer",
+      "sending": "Envoi en cours..."
+    },
+    "validation": {
+      "name_required": "Le nom est requis",
+      "email_required": "L'e-mail est requis",
+      "email_invalid": "L'e-mail n'est pas valide",
+      "message_required": "Le message est requis"
+    },
+    "success": {
+      "message_sent": "Message envoyé avec succès ! Nous vous répondrons bientôt."
+    },
+    "error": {
+      "send_failed": "Échec de l'envoi de l'e-mail. Veuillez réessayer."
+    },
+    "info": {
+      "email": {
+        "title": "Écrivez-nous",
+        "general": "contact@vendeur.tn",
+        "support": "support@vendeur.tn"
+      },
+      "phone": {
+        "title": "Appelez-nous",
+        "number": "+216 71 234 567",
+        "hours": "Lundi - Vendredi : 9h - 17h"
+      },
+      "address": {
+        "title": "Adresse",
+        "street": "Centre Urbain Nord",
+        "suite": "Bloc A, 2ème étage",
+        "city": "Tunis, Tunisie"
+      }
+    },
+    "cta": {
+      "title": "Planifier une démo",
+      "description": "Prenez contact avec notre équipe et découvrez comment Vendeur peut améliorer votre quotidien.",
+      "button": "Demander une démonstration"
+    }
+  },
+  "footer": {
+    "company": {
+      "logo_alt": "Logo Vendeur",
+      "description": "Une solution tout-en-un pour la gestion commerciale moderne."
+    },
+    "social": {
+      "twitter": "Twitter",
+      "facebook": "Facebook",
+      "linkedin": "LinkedIn",
+      "github": "GitHub"
+    },
+    "sections": {
+      "navigation": "Navigation",
+      "resources": "Ressources",
+      "newsletter": "Newsletter"
+    },
+    "navigation": {
+      "home": "Accueil",
+      "features": "Fonctionnalités",
+      "gallery": "Galerie",
+      "testimonials": "Témoignages",
+      "contact": "Contact"
+    },
+    "resources": {
+      "documentation": "Documentation",
+      "api": "API",
+      "blog": "Blog",
+      "tutorials": "Tutoriels",
+      "support": "Support"
+    },
+    "newsletter": {
+      "description": "Recevez nos dernières actualités et mises à jour par e-mail.",
+      "placeholder": "Votre adresse e-mail",
+      "success": "Merci pour votre abonnement !",
+      "error": "Erreur lors de l'abonnement. Veuillez réessayer."
+    },
+    "legal": {
+      "terms": "Conditions d'utilisation",
+      "privacy": "Politique de confidentialité",
+      "cookies": "Cookies",
+      "gdpr": "RGPD",
+      "security": "Sécurité"
+    },
+    "contact": {
+      "address": "Centre Urbain Nord, Tunis, Tunisie"
+    },
+    "copyright": {
+      "text": "Tous droits réservés.",
+      "made_with": "Développé avec ❤️",
+      "location": "par l'équipe Vendeur"
+    },
+    "back_to_top": "Retour en haut"
+  }
+}
